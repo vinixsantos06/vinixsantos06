@@ -26,7 +26,7 @@
 
 ### Conecte-se comigo
 
-<a href="https://www.instagram.com/vinixsantos06/">
+<a href="https://www.instagram.com/vinixsantos06/" target="_blank">
 <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/viniciussantosdeoliveira/">
+<a href="https://www.linkedin.com/in/viniciussantosdeoliveira/" target="_blank">
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
