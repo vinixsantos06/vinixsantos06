@@ -1,17 +1,35 @@
-### Olá! Eu sou o Vinicius Santos👋
+<h1 align="center">👋 Olá! Eu sou o Vinicius Santos</h1>
 
-<p>Sou Técnico em Redes de Computadores formado pela instituição SENAI! Atualmente estudo Desenvolvimento Web e curso Bacharelado em Ciencia e Tecnologia na UFABC. Estou em constante evolução na programação e tenho muitas expectatvias na área! Utilizo e crio projetos com as seguintes linguagens:</p>
-
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p align="center">
+Cursando Superior em Bacharelado em Ciência e Tecnologia e Ciência da Computação na UFABC. <br>
+Técnico em Redes de Computadores formado pelo SENAI. <br>
+</p>
 
 ---
 
-### Conecte-se comigo!
+### 🚀 Minhas Stacks
 
-<a href="https://www.instagram.com/vinixsantos06/" target="_blank">
-<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/viniciussantosdeoliveira/" target="_blank">
-<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,docker,git" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinixsantos06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinixsantos06&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 💬 Vamos conversar?
+
+<p>Vamos nos conectar! Me chame no
+  <a href="https://www.linkedin.com/in/viniciussantosdeoliveira/" target="_blank">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">Confira meus repositórios e projetos aqui no GitHub!</p>
