@@ -15,7 +15,7 @@ Técnico em Redes de Computadores formado pelo SENAI. <br>
 
 ---
 
-<!--
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -24,7 +24,6 @@ Técnico em Redes de Computadores formado pelo SENAI. <br>
 </p>
 
 ---
--->
 
 ### 💬 Vamos conversar?
 
